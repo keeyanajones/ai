@@ -1,6 +1,5 @@
 # ai
-Artificial Intelligence 
-
+Artificial Inetelligence 
 ## what does it do
  Intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals. In this case the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. Often used to describe machines (or computers) that mimic "cognitive" functions that humans associate with the human mind, such as "learning" and "problem solving".
 

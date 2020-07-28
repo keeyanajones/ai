@@ -1,5 +1,5 @@
 # ai
-Artificial Inetelligence 
+Artificial Intelligence 
 ## what does it do
  Intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals. In this case the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. Often used to describe machines (or computers) that mimic "cognitive" functions that humans associate with the human mind, such as "learning" and "problem solving".
 
@@ -16,10 +16,10 @@ keep track of my ai works with github blog post
 ## stage
 IN DEVELOPMENT
 
-## known issues / thing not properly done 
+## known issues / thing not properly done
 
 ## Table of Content
-- what does it do 
+- what does it do
 - what is it
 - technology used
 - ambition of project
@@ -32,7 +32,7 @@ IN DEVELOPMENT
 - running documentation locally
 - pervious releases
 - contributing
-- community 
+- community
 - versioning
 - creators
 - thanks/backers/sponsors
@@ -66,7 +66,7 @@ git push -u origin master
 …or import code from another repository
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
-ProTip! Use the URL for this page when adding GitHub as a remote. 
+ProTip! Use the URL for this page when adding GitHub as a remote.
 
 ## status
 - STATUS : LOCAL TEST 6/7/2020 04:49:47 (as of 6/7/2020 08:49:47 Coordinated Universal Time (UTC))
@@ -83,7 +83,7 @@ ProTip! Use the URL for this page when adding GitHub as a remote.
 ## contributing
 
 ## community
- 
+
 ## versioning
 
 ## creators
@@ -91,5 +91,5 @@ ProTip! Use the URL for this page when adding GitHub as a remote.
 
 ## thanks/backers/sponsors
 
-## copyright and license 
+## copyright and license
  - MIT License Copyright (c) 2020 Keeyana Jones

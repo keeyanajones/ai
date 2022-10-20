@@ -3,39 +3,22 @@ Artificial Intelligence
 ## what does it do
  Intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals. In this case the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. Often used to describe machines (or computers) that mimic "cognitive" functions that humans associate with the human mind, such as "learning" and "problem solving".
 
-## what is it
 - Common ai
 - CREATED : Apr 15, 2018 (2014)
 
 ## technology used
-JavaScript, Python, lisp, smalltalk, prolog, R, haskell, Matlab
-
-## ambition of project
-keep track of my ai works with github blog post
+JavaScript, Python, lisp, smalltalk, prolog, R, haskell, Matlab, Tensorflow, OpenAI
 
 ## stage
 IN DEVELOPMENT
 
-## known issues / thing not properly done
-
 ## Table of Content
 - what does it do
-- what is it
 - technology used
-- ambition of project
 - stage
-- known issues/ thing not properly done
 - quick start
 - status
 - what's included
-- bug and feature request
-- running documentation locally
-- pervious releases
-- contributing
-- community
-- versioning
-- creators
-- thanks/backers/sponsors
 - copyright and license
 
 ## quick start
@@ -73,23 +56,6 @@ ProTip! Use the URL for this page when adding GitHub as a remote.
 
 ## what's included
  Intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals. In this case the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. Often used to describe machines (or computers) that mimic "cognitive" functions that humans associate with the human mind, such as "learning" and "problem solving".
-
-## bug and feature request
-
-## running documentation locally
-
-## previous releases
-
-## contributing
-
-## community
-
-## versioning
-
-## creators
- - 2020 Keeyana Jones
-
-## thanks/backers/sponsors
 
 ## copyright and license
  - MIT License Copyright (c) 2020 Keeyana Jones

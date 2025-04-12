@@ -3,11 +3,12 @@ Artificial Intelligence
 ## what does it do
  Intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals. In this case the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. Often used to describe machines (or computers) that mimic "cognitive" functions that humans associate with the human mind, such as "learning" and "problem solving".
 
-- Common ai
 - CREATED : Apr 15, 2018 (2014)
+- UPDATED: Apr 8, 2025
+
 
 ## technology used
-JavaScript, Python, lisp, smalltalk, prolog, R, haskell, Matlab, Tensorflow, OpenAI
+Google Cloud, Terraform, JavaScript, Python, R, Gemini, Tensorflow, Vertex AI, DialogFlow, Notebooks
 
 ## stage
 IN DEVELOPMENT
@@ -55,7 +56,57 @@ ProTip! Use the URL for this page when adding GitHub as a remote.
 - STATUS : LOCAL TEST 6/7/2020 04:49:47 (as of 6/7/2020 08:49:47 Coordinated Universal Time (UTC))
 
 ## what's included
- Intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals. In this case the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. Often used to describe machines (or computers) that mimic "cognitive" functions that humans associate with the human mind, such as "learning" and "problem solving".
+ -Intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals. In this case the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. Often used to describe machines (or computers) that mimic "cognitive" functions that humans associate with the human mind, such as "learning" and "problem solving".
+
+### Training custom models
+    -training
+        -scripts
+        -loops
+        -jobs
+        -fine tuning (llm's)
+            -hyperparameters (traditional ml) 
+            -machine types       
+        -data
+            -loading
+            -exploration
+    -preprocessing
+    -model definition
+    -evaluation metrics
+    -workbench notebooks    
+    -automated jobs
+    -pipelines 
+    -prediction 
+        -end points
+    
+    -products   
+        -vertex ai
+        -gemini 
+        -vision ai
+        -automl
+        -sxs
+        -agones
+        -firebase
+        -ml ops
+
+    -terraform managed infrastructure
+        -vertex ai
+            -compute vms
+            -cloud functions
+            -GKE's
+        -data
+            -cloud sql
+            -cloud storage
+            -firestore
+            -bigQuery
+        -devOps
+            -cloud build
+            -cloud monitoring
+            -cloud logging
+        -game server
+            -GKE's
+            -Agones
+        -mobile
+            -firebase
 
 ## copyright and license
- - MIT License Copyright (c) 2020 Keeyana Jones
+ - MIT License Copyright (c) 2025 Keeyana Jones

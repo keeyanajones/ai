@@ -1,17 +1,19 @@
 # ai
 Artificial Intelligence 
+
 ## what does it do
  Intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals. In this case the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. Often used to describe machines (or computers) that mimic "cognitive" functions that humans associate with the human mind, such as "learning" and "problem solving".
 
 - CREATED : Apr 15, 2018 (2014)
-- UPDATED: Apr 8, 2025
+- UPDATED: June 4, 2025
 
+See my MLOps Repo
 
 ## technology used
-Google Cloud, Terraform, JavaScript, Python, R, Gemini, Tensorflow, Vertex AI, DialogFlow, Notebooks
+Google Cloud, Terraform, JavaScript, Python, Gemini, Tensorflow, Vertex AI, Jupyter Notebooks
 
 ## stage
-IN DEVELOPMENT
+DEVELOPMENT
 
 ## Table of Content
 - what does it do
@@ -53,55 +55,20 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 ProTip! Use the URL for this page when adding GitHub as a remote.
 
 ## status
-- STATUS : LOCAL TEST 6/7/2020 04:49:47 (as of 6/7/2020 08:49:47 Coordinated Universal Time (UTC))
+- STATUS : LOCAL TEST 6/7/2020 04:49:47 (as of 6/7/2020 08:49:47)
+- UPDATE : UPDATE 6/4/2025 04:49:47 (as of 6/4/2025 04:49:47)
+
+Eastern Standard Time (EST)
 
 ## what's included
- -Intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals. In this case the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. Often used to describe machines (or computers) that mimic "cognitive" functions that humans associate with the human mind, such as "learning" and "problem solving".
+- See my MLOps Repository
 
 ### Training custom models
-    -training
-        -scripts
-        -loops
-        -jobs
-        -fine tuning (llm's)
-            -hyperparameters (traditional ml) 
-            -machine types       
-        -data
-            -loading
-            -exploration
-    -preprocessing
-    -model definition
-    -evaluation metrics
-    -workbench notebooks    
-    -automated jobs
-    -pipelines 
-    -prediction 
-        -end points
-    
-    -products   
-        -vertex ai
-        -gemini 
-        -vision ai
-        -automl
-        -sxs
-        -agones
-        -firebase
-        -ml ops
-
     -terraform managed infrastructure
         -vertex ai
             -compute vms
             -cloud functions
             -GKE's
-        -data
-            -cloud sql
-            -cloud storage
-            -firestore
-            -bigQuery
-        -devOps
-            -cloud build
-            -cloud monitoring
-            -cloud logging
         -game server
             -GKE's
             -Agones
